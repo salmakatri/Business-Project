@@ -23,4 +23,4 @@ As next steps, we need to build a classification model to determine if a refugee
 *	Tableau for data visualization
 
 # Communication
-A slide deck is included in the repository as well as a link to an interactive [Tableau dashboard] (https://public.tableau.com/views/BusinessProjectDashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+A slide deck is included in the repository as well as a link to an interactive [Tableau dashboard](https://public.tableau.com/views/BusinessProjectDashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link/)
